@@ -43,7 +43,7 @@ Ukuran dataset adalah 5086 x 5
 | CD Bros. |	0.006137 |	Kirara |	0.014513 |	Studio Ring |	0.100091 |
 | Interheart Co., Ltd. |	0.005796 |	CRAFTWORK |	0.013393 |	Miyabi |	0.100091 |
 | PRODUCTION PENCIL |	0.005114 |	PIL	| 0.013320 |	Bonbee! |	0.098762 |
-| MasterUp |	0.005114 |	Yumemiru |	0.013249 |	CRAFTWORK	0.089128 |
+| MasterUp |	0.005114 |	Yumemiru |	0.013249 |	CRAFTWORK |	0.089128 |
 
 ## Analisis
 Visual Arts mengungguli dengan peringkat 1 pada ketiga metode centrality sehingga dapat dinobatkan sebagai "The Most Influential Visual Novel Producer". Hal ini wajar karena Visual Arts memiliki banyak sekali partner perusahaan dan juga anak perusahaan. Nexton dan Hobibox bisa dinobatkan sebagai peringkat 2 dan 3 secara umum karena masih ada pada top 10 pada dua metode yaitu Degree dan juga Betweenness.
