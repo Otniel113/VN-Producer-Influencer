@@ -47,3 +47,6 @@ Ukuran dataset adalah 5086 x 5
 
 ## Analisis
 Visual Arts mengungguli dengan peringkat 1 pada ketiga metode centrality sehingga dapat dinobatkan sebagai "The Most Influential Visual Novel Producer". Hal ini wajar karena Visual Arts memiliki banyak sekali partner perusahaan dan juga anak perusahaan. Nexton dan Hobibox bisa dinobatkan sebagai peringkat 2 dan 3 secara umum karena masih ada pada top 10 pada dua metode yaitu Degree dan juga Betweenness.
+
+## Visualisasi Interaktif
+Jika ingin melihat visualisasi graf secara interaktif, dapat pergi ke: https://otniel113.github.io/VN-Producer-Network/ dengan source code ada pada https://github.com/Otniel113/VN-Producer-Network
